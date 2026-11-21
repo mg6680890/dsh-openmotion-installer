@@ -38,6 +38,15 @@ npm --version
 
 ---
 
+## 获取本仓库
+
+```powershell
+git clone https://github.com/mg6680890/dsh-openmotion-installer.git
+cd dsh-openmotion-installer
+```
+
+或直接在 GitHub 页面下载 ZIP 后解压。
+
 ## 一键安装（推荐）
 
 在仓库目录打开 PowerShell：
