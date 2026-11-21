@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "OpenMotion MCP",
+    "description": "Connects DeepSeek Harness to OpenMotion for template browsing, editing and MP4 export.",
+    "detail": "docs/DETAIL.md"
+  }
+}

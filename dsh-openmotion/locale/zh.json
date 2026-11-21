@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "OpenMotion 连接",
+    "description": "把 DeepSeek Harness 连接到 OpenMotion，提供模板库浏览、剪辑与 MP4 导出能力。",
+    "detail": "docs/DETAIL.md"
+  }
+}

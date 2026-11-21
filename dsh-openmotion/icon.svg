@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="OpenMotion installer icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12295e"/>
+      <stop offset="1" stop-color="#0b1b3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#bg)"/>
+  <circle cx="128" cy="118" r="52" fill="none" stroke="#ffffff" stroke-opacity="0.28" stroke-width="6"/>
+  <path d="M112 88 L168 118 L112 148 Z" fill="#ffffff"/>
+  <rect x="64" y="182" width="128" height="12" rx="6" fill="#7050da"/>
+  <rect x="96" y="204" width="64" height="8" rx="4" fill="#ffffff" fill-opacity="0.55"/>
+</svg>
